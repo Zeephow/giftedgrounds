@@ -1,2 +1,5 @@
 .venv/
 __pycache__/
+.gitmore
+root
+test_whisper.py
