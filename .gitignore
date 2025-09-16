@@ -3,3 +3,6 @@ __pycache__/
 .gitmore
 root
 test_whisper.py
+.gitmore
+root
+test_whisper.py
